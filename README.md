@@ -1,4 +1,4 @@
-# 100-days-of-Machine-Learning-
+# Machine-Learning 
 
 
 # Naive Bayes Classification Model using Iris dataset.ipynb
