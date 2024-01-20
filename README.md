@@ -20,14 +20,14 @@ P(A) denotes the probability of A event occurring
 
 P(B) denotes the probability of B event occurring
 
-P(A/B) denotes the probability of A by B
+P(A/B) denotes the probability of event A occuring given event B has already occured
 
-P (B/A) denotes the probability of B by A
+P (B/A) denotes the probability of event B occuring given event A has already occured
 
 P (A⋂B) denotes the probability of both A and B events occurring
 
-# Problem Statement: Classify a given flower using Naive Bayes Classification model.
-# Dataset Analysis
+### Problem Statement: Classify a given flower using Naive Bayes Classification model.
+#### Dataset Analysis
 Iris Flower Dataset consists of 3 classes of flowers: setosa, versicolor and the virginica
 
 Measurements Four variables : sepal length, sepal width, petal length, petal width
