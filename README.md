@@ -3,7 +3,6 @@
 
 ### Naive Bayes Classification Model using Iris dataset.ipynb
 Naive Bayes Classification Model using Iris dataset.ipynb_
-# Day 1: Machine Learning Basics: Naive Bayes Classification
 Understanding the Naive Bayes Algorithm and solving the famous IRIS Dataset problem
 Topic Reference Repo
 
